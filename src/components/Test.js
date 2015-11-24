@@ -1,5 +1,4 @@
 var React = require('react');
-var ReactDOM = require('react-dom');
 
 var Test = React.createClass({
 render: function() {
@@ -7,7 +6,7 @@ render: function() {
 
     <div className="hikalu clearfix">
       <h2>zgl</h2>
-      <p>22333333</p>
+      <p>home page</p>
     </div>
   );
 }
